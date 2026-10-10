@@ -1,0 +1,5 @@
+name = "mediorient-blog"
+compatibility_date = "2024-09-23"
+assets = { directory = "./", binding = "ASSETS" }
+routes = []
+workers_dev = true
